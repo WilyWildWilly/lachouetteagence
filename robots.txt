@@ -1,0 +1,9 @@
+User-agent: * 
+Disallow: /css/*
+Disallow: /js/*
+Disallow: /img/*
+Disallow: /fonts/*
+Disallow: /includes/*
+
+Sitemap: http://www.example.com/sitemap.xml
+
