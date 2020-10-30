@@ -272,10 +272,16 @@ a:hover {
     font-size: 1.7rem;
     font-style: italic;
 }
+.name-quote {
+    margin-top: 0px !important;
+}
 blockquote {
     color: #444444 !important;
     border-left: none;
-    margin-left: 0;
+    margin-left: 0px !important;
+}
+.centered-quote {
+    margin-left:0px;
 }
 h4 {
     color: #666666 !important;
