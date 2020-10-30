@@ -5,5 +5,4 @@ Disallow: /img/*
 Disallow: /fonts/*
 Disallow: /includes/*
 
-Sitemap: http://www.example.com/sitemap.xml
-
+Sitemap: https://wilywildwilly.github.io/lachouetteagence/
