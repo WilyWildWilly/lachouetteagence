@@ -274,6 +274,7 @@ a:hover {
 }
 blockquote {
     color: #444444 !important;
+    border-left: none;
 }
 h4 {
     color: #666666 !important;
