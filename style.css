@@ -268,6 +268,26 @@ a:hover {
     font-size: 1.9rem;
     color: #555555 !important;
 }
+.italic-quote {
+    font-size: 1.7rem;
+    font-style: italic;
+}
+blockquote {
+    color: #444444 !important;
+}
+h4 {
+    color: #666666 !important;
+}
+.max-width-redux {
+    max-width: 51rem;
+    margin: 0 auto;
+    width: 84%;
+}
+.max-width-redux2 {
+    max-width: 50rem;
+    margin: 0 auto;
+    width: 66%;
+}
 
 .voffset {
     margin-top: 30px;
@@ -781,6 +801,7 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+    z-index: 6;
 }
 
 .btn-atomic-tangerine {
