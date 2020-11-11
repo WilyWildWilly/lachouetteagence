@@ -13,8 +13,8 @@
   img{padding-left: 50px !important;
       padding-right: 50px !important;
   }
-  horiz-responsive{
-    display: flex;
-    justify-content: space-around;
+  .horiz-responsive{
+    display: flex !important;
+    justify-content: space-around !important;
   }
 }
